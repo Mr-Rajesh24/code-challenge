@@ -1,8 +1,0 @@
-Enter a comma-separated list of characters (no duplicates): a
-Output: a
-
-Enter a comma-separated list of characters (no duplicates): a,b
-Output: ab, ba
-
-Enter a comma-separated list of characters (no duplicates): a,b,c
-Output: abc, acb, bac, bca, cab, cba
