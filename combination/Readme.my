@@ -1,0 +1,17 @@
+Enter: a
+a
+
+Enter: a,b
+ab
+ba
+
+Enter: a,b,c
+abc
+acb
+bac
+bca
+cba
+cab
+
+Enter: a,b,a
+error, duplicates not allowed
